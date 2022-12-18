@@ -1,4 +1,7 @@
 ### Hello there 👋
+Name: Jason R.
+Pronouns: He/Him
+Fun Fact: I code.
 
 <!--
 **JPR95/JPR95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
