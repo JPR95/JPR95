@@ -1,6 +1,7 @@
 ### Hello there 👋
-Name: Jason R.
+Name: Jason Riley
 Pronouns: He/Him
+
 ![Codewars](https://github.r2v.ch/codewars?user=JPR95&stroke=COLOR)
 
 <!--
