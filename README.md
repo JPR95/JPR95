@@ -1,7 +1,7 @@
 ### Hello there 👋
 Name: Jason R.
 Pronouns: He/Him
-Fun Fact: I code.
+![Codewars](https://github.r2v.ch/codewars?user=JPR95&stroke=COLOR)
 
 <!--
 **JPR95/JPR95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
