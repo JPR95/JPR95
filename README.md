@@ -3,6 +3,10 @@
 
 ![Codewars](https://github.r2v.ch/codewars?user=JPR95&stroke=COLOR)
 
+<h3 align="left">My Projects:</h3>
+<p align="left"><a href="https://github.com/SchoolOfCode/bc13_final-project_front-end-room_10_the_recruitables">Cosmic Calculations</a>
+</p>
+
 <p align="left">
 <a href="https://linkedin.com/in/jason-r-36997b16a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jason-r-36997b16a" height="30" width="40" /></a>
 </p>
